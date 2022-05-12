@@ -1,4 +1,4 @@
-# Interactive-Rating-
+# Interactive-Rating-Component
 
 [Click Me!](https://esadakman.github.io/Interactive-Rating-Component/)
 
